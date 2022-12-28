@@ -1,0 +1,28 @@
+#navigation
+{
+    background-color: rgb(53, 48, 48);
+    padding: 2px 15px;
+    text-align: left;
+    width: 100%;
+}
+a.po{
+    text-decoration: none;
+    color: white;
+    padding-right: 25px;
+}
+a.po:hover
+{
+    color:cornflowerblue;
+}
+#maincontent{
+    float:left;
+    text-align: left;
+    margin-left:185px;
+    width: 45%;
+}
+#rightcontent
+{
+    float:left;
+    width: 20%;
+    margin-left:100px;
+}
